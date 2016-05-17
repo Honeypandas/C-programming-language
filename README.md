@@ -1,3 +1,3 @@
 # C-programming-language
-##Hello World!
->###This is my first github project!
+##Hello Github!
+###This is my first github project!
